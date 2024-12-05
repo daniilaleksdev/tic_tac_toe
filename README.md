@@ -14,4 +14,4 @@
 - Результаты игр сохраняются в файл results.txt, который находится в корневом каталоге проекта.
 
 # Реализация
-![Иллюстрация к проекту](https://github.com/daniilaleksdev/tic_tac_toe/raw/master/image/example.png)
+![Иллюстрация к проекту](https://github.com/daniilaleksdev/tic_tac_toe/raw/master/example.png)
